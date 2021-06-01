@@ -30,28 +30,29 @@ Giada Blasut
 
 Federica Zoppi
 
-Ana-Milagros Jiménez
+Ana-Milagros Jiménez Ruiz
 ***
 ### Projects:
-#### Progetto Mambrino - Università degli Studi di Verona
+
+**Progetto Mambrino - Università degli Studi di Verona**
 
 resp. Anna Bognolo, Stefano Neri
 
 https://www.mambrino.it/it
 
-#### BIDISO (Biblioteca Digital Siglo de Oro) - Universidade da Coruña
+**BIDISO (Biblioteca Digital Siglo de Oro) - Universidade da Coruña**
 
 resp. Sagrario López Poza, Nieves Pena Sueiro
 
 https://www.bidiso.es/index.htm
 
-#### COMEDIC (Catálogo de obras medievales impresas en castellano) - Universidad de Zaragoza
+**COMEDIC (Catálogo de obras medievales impresas en castellano) - Universidad de Zaragoza**
 
 resp. María Jesús Lacarra
 
 https://comedic.unizar.es/
 
-#### Progetto di eccellenza: Le Digital Humanities applicate alle lingue e letterature straniere - Università degli Studi di Verona
+**Progetto di Eccellenza: Le Digital Humanities applicate alle lingue e letterature straniere - Università degli Studi di Verona**
 
 resp. Paolo Frassi
 
