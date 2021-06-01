@@ -1,5 +1,5 @@
-# HTR-model-SpanishGothic_XV-XVI_extended-DATASET
-The following Transkribus platform (READ Coop) Dataset is available on Zenodo: https://zenodo.org/record/4888927#.YLX6xqgzY2w
+# HTR-model-SpanishGothic_XV-XVI_extended-DATASET (v. 1.0.0)
+The following HTR+ Dataset is available on Zenodo: https://zenodo.org/record/4888927#.YLX6xqgzY2w
 ***
 ## General information
 
