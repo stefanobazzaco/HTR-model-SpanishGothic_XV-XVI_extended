@@ -1,11 +1,12 @@
-# HTR-model-SpanishGothic_XV-XVI_extended-DATASET (v. 1.0.0)
-The following HTR+ Dataset is available on Zenodo: https://zenodo.org/record/4888927#.YLX6xqgzY2w
+# HTR-model-SpanishGothic_XV-XVI_extended (v. 1.0.0)
+The following HTR model is available inside Transkribus platform (public model section).
+The HTR model dataset is available on Zenodo: https://zenodo.org/record/4888927#.YLX6xqgzY2w
 ***
 ## General information
 
-The SpanishGothic_XV-XVI_extended DATASET is conceived to be uploaded inside Transkribus
-platform (READ Coop) to perform a training and create an HTR+ model for the automated
-recognition of printed Spanish documents in Gothic script published between XV-XVI Century.
+The SpanishGothic_XV-XVI_extended model is conceived to be used inside Transkribus
+platform (READ Coop) for the automated recognition of printed Spanish documents in Gothic
+script published between XV-XVI Century.
 
 For system requirements and information about Transkribus platform, go to:
 
@@ -61,7 +62,7 @@ https://www.dlls.univr.it/?ent=progetto&id=5327
 ### Publisher:
 Stefano Bazzaco
 ***
-## SpanishGothic_XV-XVI_extended DATASET description:
+## SpanishGothic_XV-XVI_extended - Dataset description:
 
 The dataset is based on the following Spanish books:
 
@@ -91,8 +92,10 @@ abbreviations: expanded
 accents: mantained as in the source text
 
 punctuation: mantained as in the source text
+
+tyronian sign: transcribed as &
 ***
-## How to upload SpanishGothic_XV-XVI_extended DATASET to Transkribus platform
+## How to upload SpanishGothic_XV-XVI_extended dataset to Transkribus platform
 
 **On your local machine:**
 
@@ -179,9 +182,11 @@ just create your own Ground Truth pages following the transcription criteria we 
 share that content with Dr. Stefano Bazzaco, e-mail: stefano.bazzaco.1@gmail.com
 ***
 ## Copyright statement
-The SpanishGothic_XV-XVI_extended DataSet and model belongs to the authors.
-Their usage is freely Open Access, but you have to give appropriate credits to authors and publisher.
-Their remixing, changing and distribution for commercial use is not possible without authors
+The SpanishGothic_XV-XVI_extended model belongs to the authors.
+Its usage is freely Open Access, but you have to give appropriate credits to authors and publisher.
+
+The SpanishGothic_XV-XVI_extended dataset belongs to the author.
+Its remixing, changing and distribution for commercial use is not possible without authors
 and publisher acceptance, as stated by the Creative Commons License CC BY-NC-ND 4.0
 (Attribution-NonCommercial-NoDerivatives 4.0 International).
 
