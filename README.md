@@ -94,6 +94,8 @@ accents: mantained as in the source text
 punctuation: mantained as in the source text
 
 tyronian sign: transcribed as &
+
+long s: transcribed as simple s
 ***
 ## How to upload SpanishGothic_XV-XVI_extended dataset to Transkribus platform
 
