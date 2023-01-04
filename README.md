@@ -1,4 +1,4 @@
-# HTR-model-SpanishGothic_XV-XVI_extended (v. 1.0.0)
+# HTR-model-SpanishGothic_XV-XVI_extended (v. 1.2.0)
 The following HTR model is available inside Transkribus platform (public model section).
 The HTR model dataset is available on Zenodo: https://zenodo.org/record/4888927#.YLX6xqgzY2w
 ***
@@ -32,6 +32,14 @@ Giada Blasut
 Federica Zoppi
 
 Ana-Milagros Jiménez Ruiz
+
+José Manuel Fradejas
+
+Eduardo Camero Santos
+
+Laura Lecina Nogués
+
+Almudena Izquierdo Andreu
 ***
 ### Projects:
 
@@ -60,7 +68,7 @@ resp. Paolo Frassi
 https://www.dlls.univr.it/?ent=progetto&id=5327
 ***
 ### Publisher:
-Stefano Bazzaco
+Stefano Bazzaco (coord.)
 ***
 ## SpanishGothic_XV-XVI_extended - Dataset description:
 
@@ -82,6 +90,10 @@ The dataset is based on the following Spanish books:
 - *Lisuarte de Grecia*, Juan Díaz (Sevilla, Jacobo y Juan Cromberger, 1526)
 - *Tragicomedia de Calisto y Melibea*, Fernando de Rojas (Roma, Marcellus Silber, 1515).
 - *Retablo de la Vida de Cristo*, Juan de Padilla (Sevilla, Juan Cromberger, 1510)
+- *Crónica del Cid* (Burgos, Fadrique Biel de Basilea, 1512)
+- *Siete Partidas*, Antonio Díaz de Montalvo (Sevilla, Polonio y Ungut, 1491)
+- *Siete Partidas*, Francisco de Velasco (Venecia, Gregorio de Gregoriis, 1528)
+- *Valerio de las historias escolásticas y de España*, Diego Rodríguez de Almela (Toledo, Juan de Ayala, 1541)
 ***
 ### Transcription criteria:
 
@@ -163,13 +175,13 @@ Train
 
 Document type: printed
 
-Nr. of Words: 150˙137
+Nr. of Words: 220˙904
 
-Nr. of Lines: 16˙816
+Nr. of Lines: 25˙531
 
-CER on Train Set: 0.45%
+CER on Train Set: 0.60%
 
-CER on Validation Set: 0.92%
+CER on Validation Set: 0.91%
 ***
 ## How to simply use SpanishGothic_XV-XVI_extended HTR+ model
 
