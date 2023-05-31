@@ -1,6 +1,6 @@
 # HTR-model-SpanishGothic_XV-XVI_extended (v. 1.2.0)
 The following HTR model is available inside Transkribus platform (public model section).
-The HTR model dataset is available on Zenodo: [https://zenodo.org/record/4888927#.YLX6xqgzY2w](https://doi.org/10.5281/zenodo.4888926)
+The HTR model dataset is available on Zenodo: https://doi.org/10.5281/zenodo.4888926
 ***
 ## General information
 
